@@ -3,7 +3,7 @@ body{
 }
 
  #particles-js{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)),url('../assets/img/ikram02.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)),url('../assets/img/profil.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
