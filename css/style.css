@@ -96,7 +96,15 @@ body{
     }
     .special-heading + p {
       margin-top: -10px;
+    } #particle-js{
+     
     }
+  }
+  .text{
+    margin: 0;
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.2em;
   }
   .Example-btn6{ 
     font-family: Teko; 
