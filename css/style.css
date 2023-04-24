@@ -195,6 +195,7 @@ div.icons {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  color: #19233e;
   
 }
 section {
@@ -212,9 +213,36 @@ section {
 svg {
   height: 50px;
   margin: 20px;
-}
-  
+ color:#8e1249
 
+}
+svg:hover{
+
+  color:#ddb8c9;
+  cursor: pointer;
+}
+
+i{
+  color:#8e1249;
+  width:40px;
+  height:40px;
+}
+.fa-github{
+  width:40px;
+  height:40px;
+}
+.fa-js{
+  width:40px;
+  height:40px;
+}
+.fa-css3-alt{
+  width:40px;
+  height:40px;
+}
+.fa-html5{
+  width:40px;
+  height:40px;
+}
     
 h1,
 h2,
@@ -370,9 +398,15 @@ footer{
   display: flex;
   justify-content: center;
 }
+
 .contact{
   color: white;
+  width:30px;
+  height: 30px;
   
+}
+.contact:hover{
+  color:#8e1249;
 }
 #portfolio-grid{
   padding-left:30px;
@@ -388,6 +422,7 @@ footer{
   justify-content: center;
   align-items: center;
   width:30px;
+
 }
 
 .description p{
